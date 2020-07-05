@@ -23,7 +23,7 @@ Clone this git repo `git clone
    release](https://github.com/eserozvataf/hex-service/releases) you'd like to
    use.
 
-**Important**: `.env` file is git-ignored, so you have to run `cp .env.sample .env`
+**Important**: `.env` file is git-ignored, so you have to run `cp .env.example .env`
 before running the service.
 
 
